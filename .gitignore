@@ -1,0 +1,26 @@
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+/build
+/bin
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
