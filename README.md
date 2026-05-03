@@ -84,5 +84,5 @@ Math-Quiz-Game/
 <h2 align="center">💡 Author</h2>
 
 <p align="center">
-  Developed by <b>Your Name</b> 👨‍💻
+  Developed by <b>Brahim Bezeid</b> 👨‍💻
 </p>
